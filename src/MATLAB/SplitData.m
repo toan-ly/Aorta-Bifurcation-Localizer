@@ -8,7 +8,6 @@ function SplitData()
 %
 % Author: Toan Ly
 % Date: 2/14/2024
-% Riverain Tech
 
 % Read the Excel file
 data = readtable('Project\AortaBifurcationProject\DataGroup.xlsx');
