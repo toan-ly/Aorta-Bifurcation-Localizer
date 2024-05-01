@@ -19,9 +19,9 @@ def open_itksnap(case_number):
       return
       
     case_str = f'PAT{case_number:04d}'
-    data_dir = r'MiniProjects\CPRCheck\Lidc'
+    data_dir = r'MiniProjects\CPRCheck\'
     case_path = os.path.join(data_dir, case_str)
-    png_path = r'MiniProjects\Images_CPR_Check\Lidc'
+    png_path = r'MiniProjects\Images_CPR_Check\'
     
 
 
