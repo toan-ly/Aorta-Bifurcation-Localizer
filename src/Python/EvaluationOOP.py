@@ -3,9 +3,6 @@
 Created on Fri Mar 6 2024
 
 @author: Toan Ly
-
-Riverain Tech 2024
-
 """
 
 import os
