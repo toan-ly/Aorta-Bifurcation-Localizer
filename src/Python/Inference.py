@@ -194,7 +194,7 @@ if __name__ == '__main__':
     model_path = r'Project/Models/Model1-2-AlmostFullSphere/2024-03-07-TF2.5.0-Net-CP017.h5'
     model = load_model(model_path)
     # Load ground truth location table
-    location_tbl_path = 'C:/Users/tly/Downloads/Riverain/Project/LocationTbl.csv'
+    location_tbl_path = 'Project/LocationTbl.csv'
     tbl = pd.read_csv(location_tbl_path)
     
     input_dir = r'Project\DataPatches\Data3\Test'
