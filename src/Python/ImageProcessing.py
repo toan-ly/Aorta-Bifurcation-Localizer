@@ -147,8 +147,8 @@ def split_data():
     400 training, 50 test, and 50 validation, and store into new folder.
     """
     
-    data = pd.read_excel('C:/Users/tly/Downloads/Riverain/Project/DataGroup.xlsx')
-    tbl = pd.read_csv('C:/Users/tly/Downloads/Riverain/Project/LocationTbl.csv')
+    data = pd.read_excel('Project/DataGroup.xlsx')
+    tbl = pd.read_csv('Project/LocationTbl.csv')
     
     original_path = r'Project/InputData'
     new_path = r'Project/DataPatches/Data'
