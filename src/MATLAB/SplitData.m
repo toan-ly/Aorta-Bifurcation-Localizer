@@ -14,7 +14,7 @@ data = readtable('Project\AortaBifurcationProject\DataGroup.xlsx');
 
 % Define paths to original and new folders
 originalPath = 'MiniProjects\AortaBifurcationAndSacrum\Data';
-newPath = 'C:\Toan_Project\Data';
+newPath = 'Data';
 
 targetSz = [128, 128, 5];
 overlap = [64, 64, 2];
