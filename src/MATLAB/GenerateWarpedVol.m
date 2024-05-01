@@ -6,7 +6,6 @@ function GenerateWarpedVol()
 %
 % Author: Toan Ly
 % Date: 4/16/2024
-% Riverain Tech
 
 % Read the Excel file
 data = readtable('Project\AortaBifurcationProject\DataGroup.xlsx');
