@@ -3,7 +3,7 @@ import shutil
 from datetime import datetime
 
 # Define the path to the root folder containing patient folders
-root_folder = r'MiniProject\SkelLabel\Lidc_gt_pred_iso2'
+root_folder = r'MiniProject\SkelLabel\'
 
 # Define the start and end dates for modification
 start_date = datetime(2024, 4, 1)
