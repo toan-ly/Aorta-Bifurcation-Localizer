@@ -15,7 +15,7 @@ function table = CombineLabelTables(originalPath)
 % Date: 2/15/2024
 
 table = [];
-folders = {'Amos22Tr', 'Amos22Ts', 'Amos22Va'};
+folders = {'Tr', 'Ts', 'Va'};
 
 for idx = 1:length(folders)
     load(char(fullfile(originalPath, folders(idx), 'tblPoints.mat')));
