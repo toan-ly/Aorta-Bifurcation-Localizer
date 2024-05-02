@@ -33,6 +33,7 @@ Use the trained model for inference on new CT scans to localize the aorta bifurc
 
 # Demo
 Here are screenshots of demo training and inference:
+
 <img width="477" alt="image" src="https://github.com/toan-ly/Aorta-Bifurcation-Localizer/assets/104543062/bac6b5b2-2c9d-4966-8347-492678b9b70b">
 
 <img width="455" alt="image" src="https://github.com/toan-ly/Aorta-Bifurcation-Localizer/assets/104543062/de165901-cfb3-4c74-969e-26be9b09ad7f">
